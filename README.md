@@ -6,4 +6,4 @@ Untuk ke depannya, dapat dilakukan pelatihan menggunakan model atau menghasilkan
 Program ini disusun menggunakan referensi dalam video Youtube berikut:
 https://youtu.be/We1uB79Ci-w
 
-Thank you and see ya~
+Thank you
